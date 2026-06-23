@@ -1,19 +1,11 @@
 <div align="center">
 
-```
-███████╗██╗  ██╗██████╗ ██╗██████╗  █████╗  ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗
-██╔════╝██║  ██║██╔══██╗██║██╔══██╗██╔══██╗██╔════╝ ██║  ██║██╔══██╗██║   ██║
-███████╗███████║██████╔╝██║██████╔╝███████║██║  ███╗███████║███████║██║   ██║
-╚════██║██╔══██║██╔══██╗██║██╔══██╗██╔══██║██║   ██║██╔══██║██╔══██║╚██╗ ██╔╝
-███████║██║  ██║██║  ██║██║██║  ██║██║  ██║╚██████╔╝██║  ██║██║  ██║ ╚████╔╝ 
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝ 
-```
+# Shriraghav Ashok
 
-**B.S. Computer Science & Business Administration · UC Berkeley Haas**
+`B.S. Computer Science & Business Administration` · `UC Berkeley Haas`
 
-Building AI systems at the intersection of computational finance, rare-event modeling, and applied machine learning.<br/>Passionate about leveraging AI to improve financial resiliency.
-
-<br/>
+Building AI systems at the intersection of computational finance, rare-event modeling, and applied machine learning.<br/>
+Passionate about leveraging AI to improve resiliency and efficiency in financial systems.
 
 </div>
 
@@ -38,23 +30,30 @@ Data           Pandas · NumPy · SciPy · Sumsub API · QuantLib
 Web            React · Next.js · Node.js
 ```
 
+---
+
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raghavashok24&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&hide=issues,contribs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raghavashok24&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=issues,contribs" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavashok24&layout=compact&theme=dark&hide_border=true" />
 </p>
 
+---
+
 ## Focus
 
-`Applied AI / ML` &nbsp; `Financial Systems` &nbsp; `Fintech` &nbsp; `Computational Finance`
+<p align="center">
+  <img src="https://img.shields.io/badge/Applied%20AI%2FML-0A66C2?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Financial%20Systems-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fintech-7B1FA2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computational%20Finance-C62828?style=for-the-badge" />
+</p>
 
 ---
 
 ## Connect
 
 **Email** — [shriraghav.a524@gmail.com](mailto:shriraghav.a524@gmail.com)
-
 **LinkedIn** — [linkedin.com/in/shriraghav-ashok-040214297](https://www.linkedin.com/in/shriraghav-ashok-040214297/)
-
 **Website** — [shriraghavashok.com](https://shriraghavashok.com/)
