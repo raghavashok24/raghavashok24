@@ -41,14 +41,9 @@ Web            React · Next.js · Node.js
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raghavashok24&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raghavashok24&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&hide=issues,contribs" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavashok24&layout=compact&theme=dark&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavashok24&theme=dark&hide_border=true" />
-</p>
----
 
 ## Focus
 
