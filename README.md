@@ -1,8 +1,8 @@
 <div align="center">
 
-# Shriraghav Ashok
+# 🜂 Shriraghav Ashok
 
-`B.S. Computer Science & Business Administration` · `UC Berkeley Haas`
+### B.S. Computer Science & Business Administration · UC Berkeley Haas
 
 Building AI systems at the intersection of computational finance, rare-event modeling, and applied machine learning.<br/>
 Passionate about leveraging AI to improve resiliency and efficiency in financial systems.
@@ -35,25 +35,22 @@ Web            React · Next.js · Node.js
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raghavashok24&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=issues,contribs" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavashok24&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raghavashok24&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide=issues,contribs&text_color=ffffff&icon_color=ffffff&title_color=ffffff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavashok24&layout=compact&theme=transparent&hide_border=true&text_color=ffffff&title_color=ffffff" />
 </p>
 
 ---
 
 ## Focus
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Applied%20AI%2FML-0A66C2?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Financial%20Systems-2E7D32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fintech-7B1FA2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computational%20Finance-C62828?style=for-the-badge" />
-</p>
+**Applied AI/ML** · **Financial Systems** · **Fintech** · **Computational Finance**
 
 ---
 
 ## Connect
 
-**Email** — [shriraghav.a524@gmail.com](mailto:shriraghav.a524@gmail.com)
-**LinkedIn** — [linkedin.com/in/shriraghav-ashok-040214297](https://www.linkedin.com/in/shriraghav-ashok-040214297/)
-**Website** — [shriraghavashok.com](https://shriraghavashok.com/)
+### 📧 [shriraghav.a524@gmail.com](mailto:shriraghav.a524@gmail.com)
+
+### 💼 [linkedin.com/in/shriraghav-ashok-040214297](https://www.linkedin.com/in/shriraghav-ashok-040214297/)
+
+### 🌐 [shriraghavashok.com](https://shriraghavashok.com/)
