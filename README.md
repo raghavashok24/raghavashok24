@@ -32,15 +32,6 @@ Web            React · Next.js · Node.js
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raghavashok24&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide=issues,contribs&text_color=ffffff&icon_color=ffffff&title_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavashok24&layout=compact&theme=transparent&hide_border=true&text_color=ffffff&title_color=ffffff" />
-</p>
-
----
-
 ## Focus
 
 **Applied AI/ML** · **Financial Systems** · **Fintech** · **Computational Finance**
