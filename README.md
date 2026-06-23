@@ -15,10 +15,6 @@ Building AI systems at the intersection of computational finance, rare-event mod
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-shriraghav.a524%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:shriraghav.a524@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shriraghav--ashok-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriraghav-ashok-040214297/)
-[![Website](https://img.shields.io/badge/Website-shriraghavashok.com-111827?style=flat-square&logo=safari&logoColor=white)](https://shriraghavashok.com/)
-
 </div>
 
 ---
@@ -52,6 +48,8 @@ Web            React · Next.js · Node.js
 
 ## Connect
 
-[![Email](https://img.shields.io/badge/shriraghav.a524%40gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=white)](mailto:shriraghav.a524@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriraghav-ashok-040214297/)
-[![Website](https://img.shields.io/badge/shriraghavashok.com-111827?style=flat-square&logo=safari&logoColor=white)](https://shriraghavashok.com/)
+**Email** — [shriraghav.a524@gmail.com](mailto:shriraghav.a524@gmail.com)
+
+**LinkedIn** — [linkedin.com/in/shriraghav-ashok-040214297](https://www.linkedin.com/in/shriraghav-ashok-040214297/)
+
+**Website** — [shriraghavashok.com](https://shriraghavashok.com/)
