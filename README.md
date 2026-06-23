@@ -49,8 +49,8 @@ Web            React · Next.js · Node.js
 
 ## Connect
 
-###  [shriraghav.a524@gmail.com](mailto:shriraghav.a524@gmail.com)
-
-###  [linkedin.com/in/shriraghav-ashok-040214297](https://www.linkedin.com/in/shriraghav-ashok-040214297/)
-
-###  [shriraghavashok.com](https://shriraghavashok.com/)
+**Email** — [shriraghav.a524@gmail.com](mailto:shriraghav.a524@gmail.com)
+ 
+**LinkedIn** — [linkedin.com/in/shriraghav-ashok-040214297](https://www.linkedin.com/in/shriraghav-ashok-040214297/)
+ 
+**Website** — [shriraghavashok.com](https://shriraghavashok.com/)
