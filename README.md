@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🜂 Shriraghav Ashok
+# Shriraghav Ashok
 
 ### B.S. Computer Science & Business Administration · UC Berkeley Haas
 
@@ -49,8 +49,8 @@ Web            React · Next.js · Node.js
 
 ## Connect
 
-### 📧 [shriraghav.a524@gmail.com](mailto:shriraghav.a524@gmail.com)
+###  [shriraghav.a524@gmail.com](mailto:shriraghav.a524@gmail.com)
 
-### 💼 [linkedin.com/in/shriraghav-ashok-040214297](https://www.linkedin.com/in/shriraghav-ashok-040214297/)
+###  [linkedin.com/in/shriraghav-ashok-040214297](https://www.linkedin.com/in/shriraghav-ashok-040214297/)
 
-### 🌐 [shriraghavashok.com](https://shriraghavashok.com/)
+###  [shriraghavashok.com](https://shriraghavashok.com/)
