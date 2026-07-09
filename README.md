@@ -47,7 +47,6 @@ class Shriraghav:
         <li>Auto-generated, regulation-cited RFI letters (BSA / FinCEN)</li>
         <li>Fully stateless — HMAC-signed, live SumSub KYT integration</li>
       </ul>
-      <br/><sub>Node.js · SumSub KYT API</sub>
     </td>
     <td width="50%" valign="top">
       <h3>FS-PREM</h3>
@@ -58,7 +57,6 @@ class Shriraghav:
         <li>Sub-20 second inference latency</li>
         <li>Combines physical hurricane dynamics with few-shot learning</li>
       </ul>
-      <br/><sub>PyTorch · Conformal Prediction</sub>
     </td>
   </tr>
   <tr>
@@ -71,7 +69,6 @@ class Shriraghav:
         <li>Sequential probabilistic modeling of liquidity risk signals</li>
         <li>Built for real-time, structured financial data streams</li>
       </ul>
-      <br/><sub>scikit-learn · Sequential Modelling</sub>
     </td>
     <td width="50%" valign="top">
       <h3>Clusion</h3>
@@ -81,7 +78,6 @@ class Shriraghav:
         <li>Retrieval-augmented evidence engine for real-time debate prep</li>
         <li>AI coaching feedback loops + tournament logistics planning</li>
       </ul>
-      <br/><sub>React · Next.js · LangChain</sub>
     </td>
   </tr>
 </table>
@@ -116,7 +112,7 @@ class Shriraghav:
 
 <div align="center">
 
-### Let's Connect!
+### Let's Connect
 
 Email: [shriraghav.a524@gmail.com](mailto:shriraghav.a524@gmail.com)
 LinkedIn: [linkedin.com/in/shriraghav-ashok-040214297](https://linkedin.com/in/shriraghav-ashok-040214297)
