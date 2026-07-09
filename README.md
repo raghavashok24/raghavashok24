@@ -47,11 +47,11 @@ class Shriraghav:
         <li>Auto-generated, regulation-cited RFI letters (BSA / FinCEN)</li>
         <li>Fully stateless — HMAC-signed, live SumSub KYT integration</li>
       </ul>
-      <a href="https://github.com/raghavashok24/Aegis">Repo →</a>
       <br/><sub>Node.js · SumSub KYT API</sub>
     </td>
     <td width="50%" valign="top">
       <h3>FS-PREM <sub>IEEE</sub></h3>
+      <img src="https://img.shields.io/badge/-11%25%2B%20Accuracy%20Gain-1a1a1a?style=flat-square"/> <img src="https://img.shields.io/badge/-Sub--20s%20Latency-1a1a1a?style=flat-square"/>
       <p><em>Physics-aware few-shot framework predicting hurricane-induced Gulf Coast port disruptions.</em></p>
       <ul>
         <li>11%+ accuracy gain over baseline forecasting models</li>
@@ -64,6 +64,7 @@ class Shriraghav:
   <tr>
     <td width="50%" valign="top">
       <h3>Nexus <sub>IEEE</sub></h3>
+      <img src="https://img.shields.io/badge/-7%25%20Accuracy%20Improvement-1a1a1a?style=flat-square"/>
       <p><em>Probabilistic early warning system detecting US bank liquidity crises from structured financial data.</em></p>
       <ul>
         <li>7% accuracy improvement over existing early-warning baselines</li>
