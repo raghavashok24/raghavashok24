@@ -8,9 +8,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/-shriraghav.a524%40gmail.com-1a1a1a?style=flat-square)](mailto:shriraghav.a524@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1a1a?style=flat-square)](https://linkedin.com/in/shriraghav-ashok-040214297)
-[![Website](https://img.shields.io/badge/-shriraghavashok.com-1a1a1a?style=flat-square)](https://shriraghavashok.com)
+Email: [shriraghav.a524@gmail.com](mailto:shriraghav.a524@gmail.com) &nbsp;·&nbsp; LinkedIn: [linkedin.com/in/shriraghav-ashok-040214297](https://linkedin.com/in/shriraghav-ashok-040214297) &nbsp;·&nbsp; Website: [shriraghavashok.com](https://shriraghavashok.com)
 
 </div>
 
@@ -89,36 +87,38 @@ class Shriraghav:
 
 ---
 
-# Skills
- 
+## Skills
+
 **Languages**
 `Python`  `JavaScript`  `HTML/CSS`
- 
+
 **ML / AI**
 `PyTorch`  `scikit-learn`  `Hugging Face`  `LangChain`  `Optuna`  `Conformal Prediction`  `Sequential Modelling`
- 
+
 **Data**
 `Pandas`  `NumPy`  `SciPy`  `QuantLib`  `Sumsub API`
- 
+
 **Web**
 `React`  `Next.js`  `Node.js`
- 
+
 ---
- 
+
 ## Focus Areas
- 
+
 <div align="center">
+
 `Applied AI/ML` · `Financial Systems` · `Fintech` · `Computational Finance` · `Rare-Event Modeling`
- 
+
 </div>
+
 ---
- 
+
 <div align="center">
+
 ### Let's Connect
- 
-[![Email](https://img.shields.io/badge/-shriraghav.a524@gmail.com-1a1a1a?style=for-the-badge)](mailto:shriraghav.a524@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge)](https://linkedin.com/in/shriraghav-ashok-040214297)
-[![Portfolio](https://img.shields.io/badge/-shriraghavashok.com-1a1a1a?style=for-the-badge)](https://shriraghavashok.com)
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2a2e,50:0a1622,100:04070d&height=80&section=footer" width="100%"/>
+
+Email: [shriraghav.a524@gmail.com](mailto:shriraghav.a524@gmail.com)
+LinkedIn: [linkedin.com/in/shriraghav-ashok-040214297](https://linkedin.com/in/shriraghav-ashok-040214297)
+Website: [shriraghavashok.com](https://shriraghavashok.com)
+
 </div>
