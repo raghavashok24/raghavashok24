@@ -116,7 +116,7 @@ class Shriraghav:
 
 <div align="center">
 
-### Let's Connect
+### Let's Connect!
 
 Email: [shriraghav.a524@gmail.com](mailto:shriraghav.a524@gmail.com)
 LinkedIn: [linkedin.com/in/shriraghav-ashok-040214297](https://linkedin.com/in/shriraghav-ashok-040214297)
