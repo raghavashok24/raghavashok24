@@ -92,8 +92,6 @@ if you are interested in my journey to becoming a tokenmaxxer:
 </td>
 <td width="66%" valign="top">
 
-![total claude code tokens over time](assets/tokens.svg)
-
 </td>
 </tr>
 </table>
