@@ -82,4 +82,4 @@ if you are interested in my journey to becoming a tokenmaxxer:
 | 80,071,524 | 1 | 80.1m | 80.1m (2026-08-11) | 2026-08-11 |
 <!-- TOKENS:END -->
 
-<sub>updated daily by [`scripts/update_token_stats.py`](scripts/update_token_stats.py), which tallies my lifetime claude code token usage and re-renders the graph above.</sub>
+<sub>updated daily by [`scripts/update_token_stats.py`](scripts/update_token_stats.py), which tallies my lifetime claude code token usage and re-renders the table above.</sub>
