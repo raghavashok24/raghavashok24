@@ -77,14 +77,26 @@ tools       git | claude code
 if you are interested in my journey to becoming a tokenmaxxer:
 
 <!-- TOKENS:START -->
-```text
-total claude code tokens used : 75,295,816
+<table>
+<tr>
+<td width="34%" valign="top">
 
-token usage over time (last 30 days)
-2026-08-11 | ######################################## 75.3m
+| metric | value |
+|---|---|
+| total tokens used | 77,778,299 |
+| days tracked | 1 |
+| daily average | 77.8m |
+| peak day | 77.8m (2026-08-11) |
+| last updated | 2026-08-11 |
 
-last updated 2026-08-11
-```
+</td>
+<td width="66%" valign="top">
+
+![total claude code tokens over time](assets/tokens.svg)
+
+</td>
+</tr>
+</table>
 <!-- TOKENS:END -->
 
 <sub>updated daily by [`scripts/update_token_stats.py`](scripts/update_token_stats.py), which tallies my lifetime claude code token usage and re-renders the graph above.</sub>
