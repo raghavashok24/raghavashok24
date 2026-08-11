@@ -42,7 +42,7 @@ aml system that flags money-laundering patterns and auto-generates compliance rf
 
 probabilistic ml early-warning system to predict financial liquidity crises in intermediate us banks.
 
-*ieee mit urtc 2025*
+*ieee mit urtc 2025, main technical track (tech for humanity)*
 
 `python` `probabilistic ml` `banking risk`
 
