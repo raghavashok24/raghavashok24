@@ -1,93 +1,90 @@
 <div align="center">
 
-![Shriraghav Ashok — Berkeley Haas — Computational Finance & Applied AI Systems](shriraghav-banner.svg)
+![shriraghav ashok — berkeley haas — computational finance & applied ai systems](shriraghav-banner.svg)
 
-**Email: [shriraghav.a524@gmail.com](mailto:shriraghav.a524@gmail.com) &nbsp;·&nbsp; LinkedIn: [linkedin.com/in/shriraghav-ashok-040214297](https://www.linkedin.com/in/shriraghav-ashok-040214297) &nbsp;·&nbsp; Website: [shriraghavashok.com](https://shriraghavashok.com)**
+email: [shriraghav.a524@gmail.com](mailto:shriraghav.a524@gmail.com) &nbsp;·&nbsp; linkedin: [linkedin.com/in/shriraghav-ashok-040214297](https://www.linkedin.com/in/shriraghav-ashok-040214297) &nbsp;·&nbsp; website: [shriraghavashok.com](https://shriraghavashok.com)
 
 </div>
 
 ---
 
-## About Me
+## about me
 
-Hi, I'm Raghav. I am a current student at UC Berkeley studying Business Administration and Computer Science. I am passionate about leveraging artificial intelligence to improve the resiliency and operational efficiency of financial institutions, and am interested in opportunities spanning computational finance, agent systems, and fintech.
+hi, i'm raghav. i am a current student at uc berkeley studying business administration and computer science. i am passionate about leveraging artificial intelligence to improve the resiliency and operational efficiency of financial institutions, and am interested in opportunities spanning computational finance, agent systems, and fintech.
 
-## Featured Projects
+## featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [REFLEX](https://github.com/vignesh-nagarajan-vn/REFLEX)
+[reflex](https://github.com/vignesh-nagarajan-vn/REFLEX)
 
-ML for endogenous OTC bond markets, where a dealer's policy reshapes future flow. Reframes learning as finding a fixed-point equilibrium stable under self-induced market adaptation.
+ml for endogenous otc bond markets, where a dealer's policy reshapes future flow. reframes learning as finding a fixed-point equilibrium stable under self-induced market adaptation.
 
-`Python` `Reinforcement Learning` `Market Microstructure`
+`python` `reinforcement learning` `market microstructure`
 
 </td>
 <td width="50%" valign="top">
 
-### [Aegis](https://github.com/raghavashok24/Aegis)
+[aegis](https://github.com/raghavashok24/Aegis)
 
-AML system that flags money-laundering patterns and auto-generates compliance RFIs, streamlining the investigation workflow for financial-crime teams.
+aml system that flags money-laundering patterns and auto-generates compliance rfis, streamlining the investigation workflow for financial-crime teams.
 
-`JavaScript` `AML / Compliance` `Automation`
+`javascript` `aml / compliance` `automation`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Nexus](https://github.com/raghavashok24/Nexus)
+[nexus](https://github.com/raghavashok24/Nexus)
 
-Probabilistic ML early-warning system to predict financial liquidity crises in intermediate US banks.
+probabilistic ml early-warning system to predict financial liquidity crises in intermediate us banks.
 
-*IEEE MIT URTC 2025*
+*ieee mit urtc 2025*
 
-`Python` `Probabilistic ML` `Banking Risk`
+`python` `probabilistic ml` `banking risk`
 
 </td>
 <td width="50%" valign="top">
 
-### [FS-PREM](https://github.com/raghavashok24/FS-PREM)
+[fs-prem](https://github.com/raghavashok24/FS-PREM)
 
-Physics-aware ML framework for predicting hurricane-induced port disruptions.
+physics-aware ml framework for predicting hurricane-induced port disruptions.
 
-*IEEE ICDM 2026, Best Paper Runner-Up*
+*ieee icdm 2026, best paper runner-up*
 
-`Python` `Physics-Aware ML` `Supply-Chain Risk`
+`python` `physics-aware ml` `supply-chain risk`
 
 </td>
 </tr>
 </table>
 
-## Skills
+## skills
 
 ```text
-Languages   Python | JavaScript | HTML/CSS
-ML / AI     PyTorch | scikit-learn | Hugging Face | LangChain | Optuna
-            Conformal Prediction | Sequential Modeling
-Data        Pandas | NumPy | SciPy | QuantLib | Sumsub API | Jupyter
-Web         React | Next.js | Node.js
-Tools       Git | Claude Code
+languages   python | javascript | html/css
+ml / ai     pytorch | scikit-learn | hugging face | langchain | optuna
+            conformal prediction | sequential modeling
+data        pandas | numpy | scipy | quantlib | sumsub api | jupyter
+web         react | next.js | node.js
+tools       git | claude code
 ```
 
-## Token Usage
+## token usage
 
-If you are interested in my journey to becoming a tokenmaxxer:
+if you are interested in my journey to becoming a tokenmaxxer:
 
 <!-- TOKENS:START -->
 ```text
-TOTAL CLAUDE CODE TOKENS : 71,353,041
-CURRENT RANK             : CONTEXT ARCHITECT
-NEXT RANK                : INFERENCE MACHINIST @ 100.0M
-PROGRESS                 : [#############-----------------] 42.7%
+total claude code tokens used : 75,295,816
 
-DAILY USAGE (LAST 14 DAYS)
-2026-08-11 | #################################### 71.4M
+token usage over time (last 30 days)
+2026-08-11 | ######################################## 75.3m
 
-LAST UPDATED 2026-08-11
+last updated 2026-08-11
 ```
 <!-- TOKENS:END -->
 
-<sub>Updated daily by [`scripts/update_token_stats.py`](scripts/update_token_stats.py), which tallies my lifetime Claude Code token usage and re-renders the graph above.</sub>
+<sub>updated daily by [`scripts/update_token_stats.py`](scripts/update_token_stats.py), which tallies my lifetime claude code token usage and re-renders the graph above.</sub>
