@@ -20,7 +20,7 @@ hi, i'm raghav. i am a current student at uc berkeley studying business administ
 
 [reflex](https://github.com/vignesh-nagarajan-vn/REFLEX)
 
-ml for endogenous otc bond markets, where a dealer's policy reshapes future flow. reframes learning as finding a fixed-point equilibrium stable under self-induced market adaptation.
+ml for endogenous otc bond markets. reframes learning as finding a fixed-point equilibrium stable under self-induced market adaptation.
 
 `python` `reinforcement learning` `market microstructure`
 
@@ -30,7 +30,6 @@ ml for endogenous otc bond markets, where a dealer's policy reshapes future flow
 [aegis](https://github.com/raghavashok24/Aegis)
 
 aml system that flags money-laundering patterns and auto-generates compliance rfis, streamlining the investigation workflow for financial-crime teams.
-
 
 `javascript` `aml / compliance` `automation`
 
