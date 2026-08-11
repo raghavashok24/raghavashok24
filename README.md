@@ -1,6 +1,6 @@
 <div align="center">
 
-![shriraghav ashok — berkeley haas — computational finance & applied ai systems](shriraghav-banner.svg)
+![shriraghav ashok — berkeley haas — computational finance & applied ai systems](raghav-banner.svg)
 
 email: [shriraghav.a524@gmail.com](mailto:shriraghav.a524@gmail.com) &nbsp;·&nbsp; linkedin: [linkedin.com/in/shriraghav-ashok-040214297](https://www.linkedin.com/in/shriraghav-ashok-040214297) &nbsp;·&nbsp; website: [shriraghavashok.com](https://shriraghavashok.com)
 
