@@ -88,13 +88,6 @@ if you are interested in my journey to becoming a tokenmaxxer:
 | daily average | 77.8m |
 | peak day | 77.8m (2026-08-11) |
 | last updated | 2026-08-11 |
-
-</td>
-<td width="66%" valign="top">
-
-</td>
-</tr>
-</table>
 <!-- TOKENS:END -->
 
 <sub>updated daily by [`scripts/update_token_stats.py`](scripts/update_token_stats.py), which tallies my lifetime claude code token usage and re-renders the graph above.</sub>
