@@ -10,7 +10,7 @@ email: [shriraghav.a524@gmail.com](mailto:shriraghav.a524@gmail.com) &nbsp;·&nb
 
 ## about me
 
-hi, i'm raghav. i am a current student at uc berkeley studying business administration and computer science. i am passionate about leveraging artificial intelligence to improve the resiliency and operational efficiency of financial institutions, and am interested in opportunities spanning computational finance, agent systems, and fintech.
+hi, i'm shriraghav. i am a current student at uc berkeley studying business administration and computer science. i am passionate about leveraging artificial intelligence to improve the resiliency and operational efficiency of financial institutions, and am interested in opportunities spanning computational finance, agent systems, and fintech.
 
 ## featured projects
 
