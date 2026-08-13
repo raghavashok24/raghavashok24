@@ -20,7 +20,7 @@ hi, i'm raghav. i am a current student at uc berkeley studying business administ
 
 [reflex](https://github.com/vignesh-nagarajan-vn/REFLEX)
 
-ml for endogenous otc bond markets. reframes learning as finding a fixed-point equilibrium stable under self-induced market adaptation.
+ml for endogenous otc bond markets, where a dealer's policy reshapes future flow. reframes learning as finding a fixed-point equilibrium stable under self-induced market adaptation.
 
 `python` `reinforcement learning` `market microstructure`
 
@@ -42,7 +42,7 @@ aml system that flags money-laundering patterns and auto-generates compliance rf
 
 probabilistic ml early-warning system to predict financial liquidity crises in intermediate us banks.
 
-*ieee mit urtc 2025, main technical track*
+*ieee mit urtc 2025*
 
 `python` `probabilistic ml` `banking risk`
 
@@ -79,7 +79,9 @@ if you are interested in my journey to becoming a tokenmaxxer:
 <!-- TOKENS:START -->
 | total tokens used | days tracked | daily average | peak day | last updated |
 |---|---|---|---|---|
-| 80,071,524 | 1 | 80.1m | 80.1m (2026-08-11) | 2026-08-11 |
+| 111,635,180 | 3 | 37.2m | 84.5m (2026-08-11) | 2026-08-13 |
+
+![total claude code tokens over time](assets/tokens.svg)
 <!-- TOKENS:END -->
 
-<sub>updated daily by [`scripts/update_token_stats.py`](scripts/update_token_stats.py), which tallies my lifetime claude code token usage and re-renders the table above.</sub>
+<sub>updated daily by [`scripts/update_token_stats.py`](scripts/update_token_stats.py), which tallies my lifetime claude code token usage and re-renders the graph above.</sub>
