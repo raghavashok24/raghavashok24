@@ -64,12 +64,13 @@ physics-aware ml framework for predicting hurricane-induced port disruptions.
 ## skills
 
 ```text
-languages   python | javascript | html/css
+languages   python | javascript | html/css | bash
 ml / ai     pytorch | scikit-learn | hugging face | langchain | optuna
-            conformal prediction | sequential modeling
-data        pandas | numpy | scipy | quantlib | sumsub api | jupyter
-web         react | next.js | node.js
-tools       git | claude code
+            conformal prediction | sequential modeling | llm apis (anthropic, openai)
+data        pandas | numpy | scipy | matplotlib | quantlib | sumsub api | jupyter
+web         react | next.js | node.js | fastapi | vercel
+research    latex | overleaf | bibtex | lean 4
+tools       git | claude code | pytest | weights & biases
 ```
 
 ## token usage
