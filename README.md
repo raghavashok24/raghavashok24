@@ -70,7 +70,7 @@ ai / ml     pytorch | scikit-learn | hugging face | langchain | optuna
 data        pandas | numpy | scipy | matplotlib | quantlib | sumsub api | jupyter
 web         react | next.js | node.js | fastapi | vercel
 research    latex | overleaf | bibtex | lean 4
-tools       git | claude code | pytest | weights & biases
+tools       git | claude code | pytest
 ```
 
 ## token usage
