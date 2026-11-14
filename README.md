@@ -80,7 +80,7 @@ if you are interested in my journey to becoming a tokenmaxxer:
 <!-- TOKENS:START -->
 | total tokens used | days tracked | daily average | peak day | last updated |
 |---|---|---|---|---|
-| 962,040,119 | 45 | 21.4m | 159.7m (2026-10-14) | 2026-11-12 |
+| 1,093,357,142 | 46 | 23.8m | 159.7m (2026-10-14) | 2026-11-13 |
 <!-- TOKENS:END -->
 
 <sub>updated daily by [`scripts/update_token_stats.py`](scripts/update_token_stats.py), which tallies my lifetime claude code token usage.</sub>
